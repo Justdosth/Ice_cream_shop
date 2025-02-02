@@ -74,6 +74,22 @@ body {
   background-color: #F3F6FF;
 }
 
+.lang-switcher {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem !important;
+  margin-right: 1rem !important;
+}
+.lang-switcher a img {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  transition: transform 0.3s ease;
+}
+.lang-switcher a img:hover {
+  transform: scale(1.1); /* Slightly enlarge on hover */
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
