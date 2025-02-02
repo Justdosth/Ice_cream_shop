@@ -23,9 +23,22 @@ babel.init_app(app, locale_selector=get_locale)
 
 @app.route('/')
 def home():
+    products = [
+        {"name": "Vanilla Ice Cream", "price": 99, "image": "product-1.jpg"},
+        {"name": "Chocolate Ice Cream", "price": 89, "image": "product-2.jpg"},
+        {"name": "Strawberry Ice Cream", "price": 95, "image": "product-3.jpg"},
+        {"name": "Mango Ice Cream", "price": 110, "image": "product-4.jpg"},
+        {"name": "Pistachio Ice Cream", "price": 120, "image": "product-5.jpg"},
+    ]
+
+    testimonials = [
+        {"feedback": "Dolor eirmod diam stet kasd sed. Aliqu rebum est eos.", "client_name": "Client 1", "profession": "Designer", "image": "testimonial-1.jpg"},
+        {"feedback": "Rebum elitr dolore et eos labore, stet justo sed est sed.", "client_name": "Client 2", "profession": "Developer", "image": "testimonial-2.jpg"},
+        {"feedback": "Diam sed sed dolor stet amet eirmod eos labore diam.", "client_name": "Client 3", "profession": "Manager", "image": "testimonial-3.jpg"},
+    ]
     lang = get_locale()  # Get the current language
     direction = get_direction(lang)  # Determine the text direction
-    return render_template('index.html', lang=lang, direction=direction)
+    return render_template('index.html', lang=lang, direction=direction, products=products, testimonials=testimonials)
 
 @app.route('/about')
 def about():

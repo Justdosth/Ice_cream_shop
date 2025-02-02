@@ -70,7 +70,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #555555;
-  text-align: left;
+  text-align: right;
   background-color: #F3F6FF;
 }
 
@@ -235,7 +235,7 @@ caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   color: #6c757d;
-  text-align: left;
+  text-align: right;
   caption-side: bottom;
 }
 
@@ -7687,7 +7687,7 @@ button.bg-dark:focus {
 
 .mr-3,
 .mx-3 {
-  margin-right: 1rem !important;
+  margin-left: 1rem !important;
 }
 
 .mb-3,
@@ -8023,7 +8023,7 @@ button.bg-dark:focus {
 
 .mr-auto,
 .mx-auto {
-  margin-right: auto !important;
+  margin-left: auto !important;
 }
 
 .mb-auto,
@@ -8033,7 +8033,7 @@ button.bg-dark:focus {
 
 .ml-auto,
 .mx-auto {
-  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 @media (min-width: 576px) {
@@ -9846,7 +9846,7 @@ h6,
   position: absolute;
   content: "";
   top: -10px;
-  left: 0;
+  right: 0;
   width: 100px;
   height: 5px;
   background: #F195B2;
@@ -9856,7 +9856,7 @@ h6,
   position: absolute;
   content: "";
   top: -8px;
-  left: 0;
+  right: 0;
   width: 100px;
   height: 1px;
   background: #62C3E7;
@@ -9864,17 +9864,17 @@ h6,
 
 .section-title.text-center::before,
 .section-title.text-center::after {
-  left: calc(50% - 50px);
+  right: calc(50% - 50px);
 }
 
 .btn-play {
   position: relative;
   top: calc(50% - 30px);
-  left: calc(50% - 30px);
+  right: calc(50% - 40px);
   display: block;
   box-sizing: content-box;
-  width: 16px;
-  height: 26px;
+  width: 32px;
+  height: 52px;
   border-radius: 100%;
   border: none;
   outline: none !important;
@@ -9960,12 +9960,19 @@ h6,
   opacity: 1;
 }
 
+.owl-carousel {
+    direction: ltr; /* Force LTR for carousel container */
+}
+.owl-stage {
+    direction: rtl; /* Flip items inside */
+}
+
 .owl-carousel .owl-nav {
   position: absolute;
   width: 135px;
   height: 60px;
   top: -110px;
-  right: 0;
+  left: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;

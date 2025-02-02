@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fa\n"
+
+msgid "i"
+msgstr "بست"
+
+msgid "CREAM"
+msgstr "نی"
+
+msgid "Home"
+msgstr "خانه"
+
+msgid "About"
+msgstr "درباره ما"
+
+msgid "Product"
+msgstr "محصولات"
+
+msgid "Services"
+msgstr "خدمات"
+
+msgid "Gallery"
+msgstr "گالری"
+
+msgid "Contact"
+msgstr "تماس با ما"
+
+msgid "Traditional & Delicious"
+msgstr "سنتی و خوشمزه"
+
+msgid "Traditional Ice Cream Since 1950"
+msgstr "بستنی سنتی از سال ۱۹۵۰"
+
+msgid "Made From Our Own Organic Milk"
+msgstr "ساخته شده از شیر ارگانیک خودمان"
+
+msgid "Learn More"
+msgstr "بیشتر بدانید"
+
+msgid "Traditional & Delicious Ice Cream Since 1950"
+msgstr "بستنی سنتی و خوشمزه از سال ۱۹۵۰"
+
+msgid "About Us"
+msgstr "درباره ما"
+
+msgid "Eos kasd eos dolor vero vero, lorem stet diam rebum. Ipsum amet sed vero dolor sea"
+msgstr "متن تستی فارسی برای معرفی کوتاه درباره ما"
+
+msgid "Takimata sed vero vero no sit sed, justo clita duo no duo amet et, nonumy kasd sed dolor eos diam lorem eirmod. Amet sit amet amet no. Est nonumy sed labore eirmod sit magna. Erat at est justo sit ut. Labor diam sed ipsum et eirmod"
+msgstr "توضیحات بیشتر درباره ما به زبان فارسی"
+
+msgid "Learn More"
+msgstr "بیشتر بدانید"
+
+msgid "Our Features"
+msgstr "ویژگی‌های ما"
+
+msgid "Invidunt lorem justo sanctus clita. Erat lorem labore ea, justo dolor lorem ipsum ut sed eos, ipsum et dolor kasd sit ea justo. Erat justo sed sed diam. Ea et erat ut sed diam sea ipsum est dolor"
+msgstr "متن فارسی برای ویژگی‌های ما"
+
+msgid "Eos kasd eos dolor"
+msgstr "متن ویژگی‌ها"
+
+msgid "$199"
+msgstr "۱۹۹ دلار"
+
+msgid "Chocolate Ice Cream"
+msgstr "بستنی شکلاتی"
+
+msgid "Lorem justo clita dolor ipsum ut sed eos, ipsum et dolor kasd sit ea justo. Erat justo sed sed diam. Ea et erat ut sed diam sea ipsum"
+msgstr "متن تستی فارسی برای معرفی بستنی شکلاتی"
+
+msgid "Order Now"
+msgstr "سفارش دهید"
+
+msgid "Best Services We Provide For Our Clients"
+msgstr "بهترین خدماتی که به مشتریان خود ارائه می‌دهیم"
+
+msgid "Quality Maintain"
+msgstr "حفظ کیفیت"
+
+msgid "Individual Approach"
+msgstr "رویکرد فردی"
+
+msgid "Celebration Ice Cream"
+msgstr "بستنی مخصوص جشن‌ها"
+
+msgid "Delivery To Any Point"
+msgstr "تحویل به هر نقطه"
+
+msgid "Dolor nonumy sed eos sed lorem diam amet eos magna. Dolor kasd lorem duo stet kasd justo"
+msgstr "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ"
+
+msgid "Learn More"
+msgstr "بیشتر بدانید"
+
+msgid "Delicious Ice Cream Made From Our Very Own Organic Milk"
+msgstr "بستنی‌های خوشمزه ساخته شده از شیر ارگانیک خودمان"
+
+msgid "Best Prices We Offer For Ice Cream Lovers"
+msgstr "بهترین قیمت‌هایی که برای عاشقان بستنی ارائه می‌دهیم"
+
+msgid "Vanilla Ice Cream"
+msgstr "بستنی وانیلی"
+
+msgid "Chocolate Ice Cream"
+msgstr "بستنی شکلاتی"
+
+msgid "Strawberry Ice Cream"
+msgstr "بستنی توت فرنگی"
+
+msgid "Mango Ice Cream"
+msgstr "بستنی انبه"
+
+msgid "Pistachio Ice Cream"
+msgstr "بستنی پسته‌ای"
+
+msgid "Order Now"
+msgstr "همین حالا سفارش دهید"
+
+
+msgid "Experienced & Most Famous Ice Cream Chefs"
+msgstr "تجربه‌کارترین و مشهورترین سرآشپزان بستنی"
+
+msgid "Full Name"
+msgstr "نام کامل"
+
+msgid "Designation"
+msgstr "سمت"
+
+msgid "Order Now"
+msgstr "همین حالا سفارش دهید"
+
+msgid "Clients Say About Our Famous Ice Cream"
+msgstr "مشتریان درباره بستنی ما چه می‌گویند؟"
+
+msgid "This ice cream is amazing! The flavors are incredible and the quality is top-notch."
+msgstr "این بستنی فوق‌العاده است! طعم‌های بی‌نظیری دارد و کیفیت آن بسیار بالا است."
+
+msgid "A fantastic experience! I've never had ice cream this good before."
+msgstr "تجربه‌ای بی‌نظیر! من هرگز بستنی به این خوشمزگی نخورده بودم."
+
+msgid "Mora ice cream is the best choice for hot summer days. High quality and amazing taste!"
+msgstr "بستنی مورا بهترین گزینه برای روزهای گرم تابستان است. کیفیت عالی و طعم بی‌نظیر!"
+
+msgid "John Doe"
+msgstr "جان دو"
+
+msgid "Sara Ahmadi"
+msgstr "سارا احمدی"
+
+msgid "Ali Karimi"
+msgstr "علی کریمی"
+
+msgid "Business Owner"
+msgstr "صاحب کسب و کار"
+
+msgid "Graphic Designer"
+msgstr "طراح گرافیک"
+
+msgid "Writer"
+msgstr "نویسنده"
+
+msgid "Order Now"
+msgstr "همین حالا سفارش دهید"
+
+msgid "Get In Touch"
+msgstr "تماس با ما"
+
+msgid "Opening Hours"
+msgstr "ساعات کاری"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "All Rights Reserved."
+msgstr "کلیه حقوق محفوظ است."
+
+msgid "Designed by"
+msgstr "طراحی شده توسط"
