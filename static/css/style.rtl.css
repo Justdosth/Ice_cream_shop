@@ -6477,7 +6477,7 @@ button.bg-dark:focus {
 }
 
 .border-right {
-  border-right: 1px solid #dee2e6 !important;
+  border-left: 1px solid #dee2e6 !important;
 }
 
 .border-bottom {
@@ -7663,7 +7663,7 @@ button.bg-dark:focus {
 
 .mr-2,
 .mx-2 {
-  margin-right: 0.5rem !important;
+  margin-left: 0.5rem !important;
 }
 
 .mb-2,
@@ -7908,7 +7908,7 @@ button.bg-dark:focus {
 
 .mb-n1,
 .my-n1 {
-  margin-bottom: -0.25rem !important;
+  margin-bottom: -0.35rem !important;
 }
 
 .ml-n1,
@@ -9464,10 +9464,10 @@ button.bg-dark:focus {
 
 @media (min-width: 576px) {
   .text-sm-left {
-    text-align: left !important;
+    text-align: right !important;
   }
   .text-sm-right {
-    text-align: right !important;
+    text-align: left !important;
   }
   .text-sm-center {
     text-align: center !important;
@@ -10039,6 +10039,12 @@ h6,
 .product-item:hover .btn {
   background: #F195B2 !important;
 }
+
+/* .portfolio-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+  gap: 20px;
+} */
 
 .portfolio-item::after {
   position: absolute;

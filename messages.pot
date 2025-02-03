@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-02-02 10:33+0330\n"
+"POT-Creation-Date: 2025-02-03 10:51+0330\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -280,11 +280,19 @@ msgid_plural "{len_type} values are required, but {len_value} were given."
 msgstr[0] ""
 msgstr[1] ""
 
+#: templates/index.html:6
+msgid "iCREAM - Ice Cream Shop Website Template"
+msgstr ""
+
+#: templates/index.html:8 templates/index.html:9
+msgid "Free HTML Templates"
+msgstr ""
+
 #: templates/index.html:41
 msgid "Change Language"
 msgstr ""
 
-#: templates/index.html:84
+#: templates/index.html:84 templates/index.html:98
 msgid "i"
 msgstr ""
 
@@ -314,5 +322,153 @@ msgstr ""
 
 #: templates/index.html:104
 msgid "Contact"
+msgstr ""
+
+#: templates/index.html:121 templates/index.html:131
+msgid "Traditional & Delicious"
+msgstr ""
+
+#: templates/index.html:122
+msgid "Traditional Ice Cream Since 1950"
+msgstr ""
+
+#: templates/index.html:123 templates/index.html:133 templates/index.html:173
+#: templates/index.html:194 templates/index.html:272 templates/index.html:282
+#: templates/index.html:292 templates/index.html:302
+msgid "Learn More"
+msgstr ""
+
+#: templates/index.html:132
+msgid "Made From Our Own Organic Milk"
+msgstr ""
+
+#: templates/index.html:160
+msgid "Traditional & Delicious Ice Cream Since 1950"
+msgstr ""
+
+#: templates/index.html:166
+msgid "About Us"
+msgstr ""
+
+#: templates/index.html:168
+msgid ""
+"Eos kasd eos dolor vero vero, lorem stet diam rebum. Ipsum amet sed vero "
+"dolor sea"
+msgstr ""
+
+#: templates/index.html:171
+msgid ""
+"Takimata sed vero vero no sit sed, justo clita duo no duo amet et, nonumy"
+" kasd sed dolor eos diam lorem eirmod. Amet sit amet amet no. Est nonumy "
+"sed labore eirmod sit magna. Erat at est justo sit ut. Labor diam sed "
+"ipsum et eirmod"
+msgstr ""
+
+#: templates/index.html:181
+msgid "Our Features"
+msgstr ""
+
+#: templates/index.html:183
+msgid ""
+"Invidunt lorem justo sanctus clita. Erat lorem labore ea, justo dolor "
+"lorem ipsum ut sed eos, ipsum et dolor kasd sit ea justo. Erat justo sed "
+"sed diam. Ea et erat ut sed diam sea ipsum est dolor"
+msgstr ""
+
+#: templates/index.html:186 templates/index.html:189 templates/index.html:192
+msgid "Eos kasd eos dolor"
+msgstr ""
+
+#: templates/index.html:219
+msgid "$199"
+msgstr ""
+
+#: templates/index.html:221
+msgid "Chocolate Ice Cream"
+msgstr ""
+
+#: templates/index.html:223
+msgid ""
+"Lorem justo clita dolor ipsum ut sed eos, ipsum et dolor kasd sit ea "
+"justo. Erat justo sed sed diam. Ea et erat ut sed diam sea ipsum"
+msgstr ""
+
+#: templates/index.html:225 templates/index.html:359
+msgid "Order Now"
+msgstr ""
+
+#: templates/index.html:258
+msgid "Best Services We Provide For Our Clients"
+msgstr ""
+
+#: templates/index.html:270
+msgid "Quality Maintain"
+msgstr ""
+
+#: templates/index.html:271 templates/index.html:281 templates/index.html:291
+#: templates/index.html:301
+msgid ""
+"Dolor nonumy sed eos sed lorem diam amet eos magna. Dolor kasd lorem duo "
+"stet kasd justo"
+msgstr ""
+
+#: templates/index.html:280
+msgid "Individual Approach"
+msgstr ""
+
+#: templates/index.html:290
+msgid "Celebration Ice Cream"
+msgstr ""
+
+#: templates/index.html:300
+msgid "Delivery To Any Point"
+msgstr ""
+
+#: templates/index.html:318
+msgid "Delicious Ice Cream Made From Our Very Own Organic Milk"
+msgstr ""
+
+#: templates/index.html:343
+msgid "Best Prices We Offer For Ice Cream Lovers"
+msgstr ""
+
+#: templates/index.html:376
+msgid "Experienced & Most Famous Ice Cream Chefs"
+msgstr ""
+
+#: templates/index.html:413
+msgid "Clients Say About Our Famous Ice Cream"
+msgstr ""
+
+#: templates/index.html:455
+msgid "Get In Touch"
+msgstr ""
+
+#: templates/index.html:456
+msgid "123 Street, New York, USA"
+msgstr ""
+
+#: templates/index.html:457
+msgid "Phone"
+msgstr ""
+
+#: templates/index.html:460
+msgid "Opening Hours"
+msgstr ""
+
+#: templates/index.html:461
+msgid "Mon – Sat, 8AM – 5PM"
+msgstr ""
+
+#: templates/index.html:462
+msgid "Sunday: Closed"
+msgstr ""
+
+#: templates/index.html:467
+msgid "All Rights Reserved."
+msgstr ""
+
+#: templates/index.html:467
+msgid "Designed by"
 msgstr ""
 

@@ -3,6 +3,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fa\n"
 
+msgid "iCREAM - Ice Cream Shop Website Template"
+msgstr "بستنی - قالب وب‌سایت فروشگاه بستنی"
+
+msgid "Free HTML Templates"
+msgstr "قالب‌های رایگان HTML"
+
 msgid "i"
 msgstr "بست"
 
@@ -136,47 +142,56 @@ msgstr "همین حالا سفارش دهید"
 msgid "Clients Say About Our Famous Ice Cream"
 msgstr "مشتریان درباره بستنی ما چه می‌گویند؟"
 
-msgid "This ice cream is amazing! The flavors are incredible and the quality is top-notch."
-msgstr "این بستنی فوق‌العاده است! طعم‌های بی‌نظیری دارد و کیفیت آن بسیار بالا است."
+msgid "Dolor eirmod diam stet kasd sed. Aliqu rebum est eos."
+msgstr "دولور ایرمود دیام ست کاسد سد. آلیک ریبوم است ایوس."
 
-msgid "A fantastic experience! I've never had ice cream this good before."
-msgstr "تجربه‌ای بی‌نظیر! من هرگز بستنی به این خوشمزگی نخورده بودم."
+msgid "Rebum elitr dolore et eos labore, stet justo sed est sed."
+msgstr "ریبوم الیتر دولوره ات ایوس لابوره، ست جاستو سد است سد."
 
-msgid "Mora ice cream is the best choice for hot summer days. High quality and amazing taste!"
-msgstr "بستنی مورا بهترین گزینه برای روزهای گرم تابستان است. کیفیت عالی و طعم بی‌نظیر!"
+msgid "Diam sed sed dolor stet amet eirmod eos labore diam."
+msgstr "دیام سد سد دولور ست آمت ایرمود ایوس لابوره دیام."
 
-msgid "John Doe"
-msgstr "جان دو"
+msgid "Client 1"
+msgstr "مشتری 1"
 
-msgid "Sara Ahmadi"
-msgstr "سارا احمدی"
+msgid "Designer"
+msgstr "طراح"
 
-msgid "Ali Karimi"
-msgstr "علی کریمی"
+msgid "Client 2"
+msgstr "مشتری 2"
 
-msgid "Business Owner"
-msgstr "صاحب کسب و کار"
+msgid "Developer"
+msgstr "توسعه‌دهنده"
 
-msgid "Graphic Designer"
-msgstr "طراح گرافیک"
+msgid "Client 3"
+msgstr "مشتری 3"
 
-msgid "Writer"
-msgstr "نویسنده"
-
-msgid "Order Now"
-msgstr "همین حالا سفارش دهید"
+msgid "Manager"
+msgstr "مدیر"
 
 msgid "Get In Touch"
 msgstr "تماس با ما"
 
-msgid "Opening Hours"
-msgstr "ساعات کاری"
+msgid "123 Street, New York, USA"
+msgstr "خیابان 123، نیویورک، ایالات متحده"
 
 msgid "Phone"
 msgstr "تلفن"
 
-msgid "All Rights Reserved."
-msgstr "کلیه حقوق محفوظ است."
+msgid "+012 345 67890"
+msgstr "+012 345 67890"
 
-msgid "Designed by"
-msgstr "طراحی شده توسط"
+msgid "Opening Hours"
+msgstr "ساعات کاری"
+
+msgid "Mon – Sat, 8AM – 5PM"
+msgstr "دوشنبه تا شنبه، 8 صبح تا 5 عصر"
+
+msgid "Sunday: Closed"
+msgstr "یکشنبه: تعطیل"
+
+msgid "All Rights Reserved. Designed by"
+msgstr "کلیه حقوق محفوظ است. طراحی شده توسط"
+
+msgid "HTML Codex"
+msgstr "HTML Codex"

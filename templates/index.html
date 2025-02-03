@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>iCREAM - Ice Cream Shop Website Template</title>
+    <title>{{ _('iCREAM - Ice Cream Shop Website Template') }}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="{{ _('Free HTML Templates') }}" name="keywords">
+    <meta content="{{ _('Free HTML Templates') }}" name="description">
 
     <!-- <link id="bootstrap-css" href="static/css/bootstrap.{{ 'rtl.min.css' if lang == 'fa' else 'min.css' }}" rel="stylesheet"> -->
 
@@ -319,7 +319,7 @@
             </div>
         </div>
         <div class="row m-0 portfolio-container">
-            {% for i in range(1, 7) %}
+            {% for i in range(1, 4) %}
             <div class="col-lg-4 col-md-6 p-0 portfolio-item">
                 <div class="position-relative overflow-hidden">
                     <img class="img-fluid w-100" src="{{ url_for('static', filename='img/portfolio-' ~ i ~ '.jpg') }}" alt="">
@@ -464,7 +464,7 @@
                     </div>
                 </div>
                 <div class="col-12">
-                    <p class="m-0">&copy; <a href="#">Domain</a>. {{ _('All Rights Reserved.') }} {{ _('Designed by') }} <a href="https://htmlcodex.com">HTML Codex</a></p>
+                    <p class="m-0">&copy; <a href="#">Domain</a>. {{ _('All Rights Reserved. Designed by') }} <a href="https://htmlcodex.com">HTML Codex</a></p>
                 </div>
             </div>
         </div>
