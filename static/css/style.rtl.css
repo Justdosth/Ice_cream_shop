@@ -10183,3 +10183,7 @@ h6,
     border-right: none !important;
   }
 }
+
+#portfolio_section {
+  min-height: 600px;
+}
